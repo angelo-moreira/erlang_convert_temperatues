@@ -23,7 +23,8 @@ defmodule Temperatures.MixProject do
     [
       # {:dep_from_hexpm, "~> 0.3.0"},
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"},
-      {:soap, git: "https://github.com/bet365/soap.git"}
+      {:soap, git: "https://github.com/bet365/soap.git"},
+      {:ibrowse, git: "https://github.com/cmullaparthi/ibrowse.git"}
     ]
   end
 end
